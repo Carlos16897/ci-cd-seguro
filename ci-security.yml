@@ -1,4 +1,3 @@
-.github/workflows/ci-security.yml
 
 
 name: CI Pipeline with Security
